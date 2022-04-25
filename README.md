@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @smith2e7. I am in Orlando, FL, USA
-     My age is 74 years.
+     My age is 75 years.
 - 👀 I’m interested in electronic control of motors for various projects.
 - 🌱 I’m currently learning about how to get along with wife and other women.
 - 💞️ I am currently working on projects that use VESC controllers.
